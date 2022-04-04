@@ -22,7 +22,7 @@
 * Personnaly following **trainings** on JS, HTML/CSS, Advanced Python, Python QT, Java, C, ...
 
 ## <ins>Coding Languages</ins> ⏰
-<span style="color:blue;">▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</span><span style="color:orange;">▰</span>  `95%`
+`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 95%`
 
 * <span style="color:blue;">▰</span> : ***Python***
-* <span style="color:orange;">▰</span> : ***JS***
+* <span style="color:orange;">▱</span> : ***JS***
