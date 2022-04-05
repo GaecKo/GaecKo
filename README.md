@@ -26,3 +26,5 @@
 
 * <span style="color:blue;">▰</span> : ***Python***
 * <span style="color:orange;">▱</span> : ***JS***, ***Html***, ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaecKo)](https://github.com/anuraghazra/github-readme-stats)
