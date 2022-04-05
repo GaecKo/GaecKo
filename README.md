@@ -27,4 +27,4 @@
 * <span style="color:blue;">▰</span> : ***Python***
 * <span style="color:orange;">▱</span> : ***JS***, ***Html***, ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&theme=dracula&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
