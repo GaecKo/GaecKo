@@ -25,4 +25,4 @@
 `▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 95%`
 
 * <span style="color:blue;">▰</span> : ***Python***
-* <span style="color:orange;">▱</span> : ***JS***
+* <span style="color:orange;">▱</span> : ***JS***, ***Html***, ...
