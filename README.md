@@ -1,18 +1,18 @@
 # <ins>GaecKo</ins>
 ## <ins>Presentation</ins> 💻
-* `Computer Science` student in first year at `UCLouvain`
+* `Computer Science` student in second year at `UCLouvain`
 * Love creating stuff from different perspective
 ****
 
 ## <ins>Personnal Project</ins> 👩🏼‍🚀
 * [MDPSaver](https://github.com/GaecKo/MDPSaver)
     * ***cmd/bash*** built-in program to ***manage your passwords*** localy. I made it for personnal usage, added it to Replit to use it on different devices. Quite complete as you can see on Git 
-    * Use of ***hashing*** and ***encoding*** to make the whole thing secured
+    * Use of ***hashing*** and ***encrypting*** to make the whole thing secured
     * Little ***menu*** with various options
     * **Roadmap**: `▰▰▰▰▰▰▰▰▰▱ 90%`
 * [StrucBot](https://github.com/GaecKo/StructBot)
     * A ***discord bot*** that ***helps*** gaming structure with various stuff such as reminders, weeks recap, ...
-    * **Roadmap**: 	`▰▰▱▱▱▱▱▱▱▱ 20%`
+    * **Roadmap**: 	`▰▰▰▰▰▰▰▰▱▱ 80%`
 * Some good stuff in my mind that needs more skills :)
 ****
 
