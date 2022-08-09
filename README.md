@@ -2,7 +2,7 @@
 ## <ins>Presentation</ins> 💻
 * `Computer Science` student in second year at `UCLouvain`
 * Love creating stuff from different perspective
-****
+
 
 ## <ins>Personnal Project</ins> 👩🏼‍🚀
 * [MDPSaver](https://github.com/GaecKo/MDPSaver)
