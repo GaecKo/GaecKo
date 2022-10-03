@@ -6,10 +6,11 @@
 
 ## <ins>Personnal Project</ins> 👩🏼‍🚀
 * [MDPSaver](https://github.com/GaecKo/MDPSaver)
-    * ***cmd/bash*** built-in program to ***manage your passwords*** localy. I made it for personnal usage, added it to Replit to use it on different devices. Quite complete as you can see on Git 
+    * ***terminal*** built-in program to ***manage your passwords*** localy. I made it for personnal usage, added it to Replit to use it on different devices. Quite complete as you can see on Git 
     * Use of ***hashing*** and ***encrypting*** to make the whole thing secured
     * Little ***menu*** with various options
-    * **Roadmap**: `▰▰▰▰▰▰▰▰▰▱ 90%`
+    * **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
+    * Thinking of creating gui interface ?
 * [StrucBot](https://github.com/GaecKo/StructBot)
     * A ***discord bot*** that ***helps*** gaming structure with various stuff such as reminders, weeks recap, ...
     * **Roadmap**: 	`▰▰▰▰▰▰▰▰▱▱ 80%`
@@ -22,9 +23,9 @@
 * Personnaly following **trainings** on JS, HTML/CSS, Advanced Python, Python QT, Java, C, ...
 
 ## <ins>Coding Languages</ins> ⏰
-`▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 95%`
+`▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱ 60%`
 
 * <span style="color:blue;">▰</span> : ***Python***
-* <span style="color:orange;">▱</span> : ***JS***, ***Html***, ...
+* <span style="color:orange;">▱</span> : ***Java***, ***JS***, ***Html***, ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&theme=dracula&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
