@@ -1,8 +1,11 @@
 <!-- <h1 align=center> <span style="background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc); border-radius: 6px; padding: 3px 6px;"><ins>GaecKo</ins></span>
 </h1> -->
 
+<h1 align=center>
 
 ![GaecKo](gaecko.gif)
+
+</h1>
 
 ## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>GaecKo</ins></span> 👩🏼‍🚀
 - **Computer Science** student undergraduate at [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl)
