@@ -38,9 +38,27 @@
 
 </h1>
 
-## For the beauty of it, here is a lazy Quicksort in `mOZart`. 
+## For the beauty of it, here is a lazy Quicksort in `mOZart`. 🥰
 
 ```oz
+declare 
+proc {Partition L X L1 L2}
+	case L 
+		of H|T then
+			if H<X then 
+				M1 in
+					L1=H|M1 
+					{Partition T X M1 L2}
+			else /* H≥X */ 
+				M2 in
+					L2=H|M2 {Partition T X L1 M2}
+			end
+		[] nil then 
+			L1=nil 
+			L2=nil
+	end
+end
+
 declare
 fun lazy {LAppend L1 L2}
   case L1 
@@ -51,6 +69,7 @@ fun lazy {LAppend L1 L2}
   end
 end
 
+declare
 fun lazy {LQuicksort L}
   case L 
     of X|M then 
@@ -63,4 +82,12 @@ fun lazy {LQuicksort L}
       nil
   end
 end
+
+declare X in 
+X = {LQuicksort 2|3|1|5|7|nil}
+{Browse X}      % >> _  ~> I am lazy      
+{Browse X.1}    % >> 1  ~> Ok but then just one  
 ```
+
+
+
