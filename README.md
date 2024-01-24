@@ -1,23 +1,18 @@
-<!-- <h1 align=center> <span style="background-image: linear-gradient(to right, #F27121cc, #E94057cc, #8A2387cc); border-radius: 6px; padding: 3px 6px;"><ins>GaecKo</ins></span>
-</h1> -->
+* <h1 align=center> >>👋Hey, I am <ins>Arthur</ins> 👩🏼‍🚀
 
-<h1 align=center>
-
-![GaecKo](gaecko.gif)
-
+![GaecKo](gaeckoV.gif)
 </h1>
 
-## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>GaecKo</ins></span> 👩🏼‍🚀
 - **Computer Science** student undergraduate at [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl)
 - Passionate about **Software Engineering**, **Logic of programs**, **Discrete Mathematics**, and **Advanced Computer theories**.
 
 ## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>Personal Projects</ins></span>  💻
 - [MDPSaver](https://github.com/GaecKo/MDPSaver)
-  - Terminal-based program for local password management. Features password filter search, password generator, and uses hashing and encryption for security.
+  - **Terminal-based** program for local **password management**. Features password *filter search*, *password generator*, and uses *hashing* and *encryption* for security.
   - **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
-  - GUI WIP
+  - GUI: *wip*
 - [TDQuicker](https://github.com/GaecKo/TDQuicker)
-  - Note-taking app with pin-on-screen function, progress bar, and basic note-taking app functions.
+  - **Note-taking** app with **pin-on-screen** function, **progress bar**, and basic note-taking app functions.
   - Utilized `PySide6` and the power of inheritance.
   - **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
 - [FluidStat](https://github.com/GaecKo/FluidStat)
@@ -42,3 +37,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&theme=dracula&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </h1>
+
+## For the beauty of it, here is a lazy Quicksort in `mOZart`. 
+
+```oz
+declare
+fun lazy {LAppend L1 L2}
+  case L1 
+    of H|T then 
+      H|{LAppend T L2}
+    [] nil then 
+      L2 
+  end
+end
+
+fun lazy {LQuicksort L}
+  case L 
+    of X|M then 
+      L1 L2 S1 S2 in
+        {Partition M X L1 L2}
+        S1={LQuicksort L1}
+        S2={LQuicksort L2}
+        {LAppend S1 X|S2}
+    [] nil then 
+      nil
+  end
+end
+```

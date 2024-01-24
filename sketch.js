@@ -7,14 +7,15 @@ function get_random (list) {
 }
 
 const settings = {
-  dimensions: [ 2000, 800 ],
-  animate: true
+  dimensions: [ 2000, 250 ],
+  animate: true,
 };
+
 
 const sketch = ({ context, width, height }) => {
   const agents = [];
   
-  for (let i = 0; i < 300; i++) {
+  for (let i = 0; i < 65; i++) {
     const x = random.range(0, width);
     const y = random.range(0, height);
 
@@ -22,7 +23,8 @@ const sketch = ({ context, width, height }) => {
   }
 
   return ({ context, width, height }) => {
-    context.fillStyle = 'rgb(13, 17, 23)';
+    context.backgroundColor = "rgb(13, 17, 23)";
+    context.fillStyle = "rgb(13, 17, 23)";
     context.fillRect(0, 0, width, height);
     
     for (i = 0; i < agents.length; i++) {
@@ -68,8 +70,10 @@ class Vector {
 class Agent {
   constructor(x, y) {
     this.pos = new Vector(x, y);
-    this.vel = new Vector(random.range(-0.7, 0.7), random.range(-0.7, 0.7));
-    this.radius = random.range(2, 4);
+    this.radius = random.range(1.5, 5);
+    this.speed_factor = (2.5 / this.radius) * random.range(0.2, 1)
+    this.vel = new Vector(random.range(-0.7, 0.5) * this.speed_factor, random.range(-0.7, 0.5)* this.speed_factor);
+    
   }
   
   bounce(widht, height) {
@@ -91,7 +95,7 @@ class Agent {
 
     context.beginPath();
     context.strokeStyle = "white"
-    context.fillStyle = "blue"
+    context.fillStyle = "white"
     context.arc(0, 0, this.radius, 0, Math.PI * 2);
     context.fill();
     context.stroke();
