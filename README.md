@@ -61,32 +61,32 @@ end
 
 declare
 fun lazy {LAppend L1 L2}
-  case L1 
-    of H|T then 
-      H|{LAppend T L2}
-    [] nil then 
-      L2 
-  end
+	case L1 
+		of H|T then 
+	  		H|{LAppend T L2}
+		[] nil then 
+	  		L2 
+	end
 end
 
 declare
 fun lazy {LQuicksort L}
-  case L 
-    of X|M then 
-      L1 L2 S1 S2 in
-        {Partition M X L1 L2}
-        S1={LQuicksort L1}
-        S2={LQuicksort L2}
-        {LAppend S1 X|S2}
-    [] nil then 
-      nil
-  end
+	case L 
+		of X|M then 
+			L1 L2 S1 S2 in
+				{Partition M X L1 L2}
+				S1={LQuicksort L1}
+				S2={LQuicksort L2}
+				{LAppend S1 X|S2}
+		[] nil then 
+			nil
+	end
 end
 
 declare X in 
 X = {LQuicksort 2|3|1|5|7|nil}
-{Browse X}      % >> _  ~> I am lazy      
-{Browse X.1}    % >> 1  ~> Ok but then just one  
+{Browse X}		% >> _	~> I am lazy 
+{Browse X.1}	% >> 1	~> Ok but just the first one then
 ```
 
 
