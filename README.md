@@ -1,4 +1,4 @@
-* <h1 align=center> >>👋Hey, I am <ins>Arthur</ins> 👩🏼‍🚀
+* <h1 align=center> 👋 Hey, I am <ins>Arthur</ins> 
 
 ![GaecKo](gaeckoV.gif)
 </h1>
