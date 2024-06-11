@@ -10,15 +10,22 @@
 - [MDPSaver](https://github.com/GaecKo/MDPSaver)
   - **Terminal-based** program for local **password management**. Features password *filter search*, *password generator*, and uses *hashing* and *encryption* for security.
   - **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
-  - GUI: *wip*
+
+- [CrypedEye](https://github.com/GaecKo/CryptedEye)
+  - **Android** app that allows you to manage passwords and notes locally. Features shareable vaults, password generator, ... .
+  - Built on `Flutter` and `Dart`.
+  - **Roadmap**: `▰▰▰▰▰▰▰▰▱▱ 80%`
+  
 - [TDQuicker](https://github.com/GaecKo/TDQuicker)
   - **Note-taking** app with **pin-on-screen** function, **progress bar**, and basic note-taking app functions.
   - Utilized `PySide6` and the power of inheritance.
   - **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
+    
 - [FluidStat](https://github.com/GaecKo/FluidStat)
   - Simple resources displayer built in the terminal.
   - Displays CPU load, RAM usage, and battery percentage.
   - **Roadmap**: `▰▰▰▱▱▱▱▱▱▱ 30%`
+    
 - Many school projects, including:
   - [C-Multi-Threading](https://github.com/GaecKo/C-Multi-Threading): Implementation of mutex, semaphores; applied them to famous problems like the Philosophers' problem, Lecter-Writer, and Producer-Consumer.
   - [C-Memory-Manager](https://github.com/GaecKo/C-Memory-Manager): Implementation of malloc and free with a fragmentation visualizer.
