@@ -3,7 +3,8 @@
 ![GaecKo](gaeckoV.gif)
 </h1>
 
-- **Computer Science** student undergraduate at [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl)
+- **Computer Science** master student at [Louvain School of Engineering](https://uclouvain.be/en/faculties/epl)
+  - **Cybersecurity** and **Software Engineering** specialization
 - Passionate about **Software Engineering**, **Logic of programs**, **Discrete Mathematics**, and **Advanced Computer theories**.
 
 ## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>Personal Projects</ins></span>  💻
@@ -15,6 +16,11 @@
   - **Android** app that allows you to manage passwords and notes locally. Features shareable vaults, password generator, ... .
   - Built on `Flutter` and `Dart`.
   - **Roadmap**: `▰▰▰▰▰▰▰▰▱▱ 80%`
+
+- [LocaWeb](https://github.com/GaecKo/LocaWeb)
+  - A fully working website using `NodeJS`. The website allows you to rent and lease goods, add comments, and report users.
+  - Features a fully working moderation model with specific pages to moderate reported ads and comments.
+  - **Roadmap**: `▰▰▰▰▰▰▰▰▰▰ 100%`
   
 - [TDQuicker](https://github.com/GaecKo/TDQuicker)
   - **Note-taking** app with **pin-on-screen** function, **progress bar**, and basic note-taking app functions.
@@ -31,7 +37,7 @@
   - [C-Memory-Manager](https://github.com/GaecKo/C-Memory-Manager): Implementation of malloc and free with a fragmentation visualizer.
   - [Twit-Oz](https://github.com/GaecKo/Twit-Oz): Uses `n-grams` to predict the next word in a sequence of words with a Chat-GPT-like interface.
   - **PacMoz**: A PacMan game created using Oz and `functional programming`.
-  - **LocaWeb**: A fully working website using `NodeJS`. The website allows you to rent and lease goods, add comments, and report users. It features a fully working moderation model with specific pages to moderate different ads.
+  
 
 ## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>Things I am currently doing</ins></span> ⏰
 - **University**
@@ -39,11 +45,20 @@
 - Personally following **training** on JS, HTML/CSS, Advanced Python, Python QT, Java, C, ...
 
 ## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>Coding Languages</ins></span> 
-<h1 align=center>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&theme=dracula&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaecKo&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-</h1>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GaecKo&hide_border=true" />
+</details>
 
 ## For the beauty of it, here is a lazy Quicksort in `mOZart`. 🥰
 
