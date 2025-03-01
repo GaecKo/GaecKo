@@ -1,4 +1,5 @@
-* <h1 align=center> 👋 Hey, I am <ins>Arthur</ins> 
+<h1 align=center> 👋 Hey, I am <ins>Arthur</ins> 
+<p></p>
 
 ![GaecKo](gaeckoV.gif)
 </h1>
@@ -44,13 +45,11 @@
 - Ongoing development on multiple school and personal projects
 - Personally following **training** on JS, HTML/CSS, Advanced Python, Python QT, Java, C, ...
 
-## <span style="background-image: linear-gradient(to right, #F121cc, #8A2387cc); border-radius: 6px; padding: 0.2px 2px;"><ins>Coding Languages</ins></span> 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaecKo&show_icons=true&hide_border=true&&count_private=false&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaecKo&show_icons=true&hide_border=true&layout=normal&langs_count=6&hide=jupyter%20notebook,html"/>
 </details>
 
 <details>
